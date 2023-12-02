@@ -1,0 +1,12 @@
+names:
+- license
+nc: 1
+roboflow:
+  license: MIT
+  project: lp-cb6nd
+  url: https://universe.roboflow.com/project/lp-cb6nd/dataset/2
+  version: 2
+  workspace: project
+test: ../test/images
+train: lp-2/train/images
+val: lp-2/valid/images
